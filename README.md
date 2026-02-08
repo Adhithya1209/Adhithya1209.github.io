@@ -19,7 +19,7 @@ A modern, responsive portfolio website showcasing AI/ML projects, experience, an
 4. **Projects** - Featured projects with technologies used
 5. **Skills** - Visual representation of technical expertise
 6. **Certifications** - Professional certifications and courses
-7. **Contact** - Multiple ways to get in touch
+7. **Contact** - Multiple way to get in touch
 
 
 
